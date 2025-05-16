@@ -110,7 +110,7 @@ function App() {
         />
         <div className="col-span-4 p-5">
           <h1 className="text-4xl bg-clip-text text-transparent bg-gradient-to-r from-pink-700 to-violet-700">
-            Hello User, Ask Me Anything
+            Hello I Am Anish, Ask Me Anything
           </h1>
 
           {loader ? (
